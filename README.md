@@ -1,2 +1,2 @@
 # Django-Project
-Patient Appoinment Web Application
+Patient Appoinment Booking Application
