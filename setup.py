@@ -10,7 +10,7 @@ setup(
 	name="djangoproject",
 	version=version,
 	description="ERPNext Laboratory Utility is an Frappe App for facilitating Laboratory",
-	author="epic",
+	author="epics",
 	author_email="aadithp210@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
